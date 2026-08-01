@@ -9,43 +9,69 @@ The frontend is built using Angular standalone components and follows a componen
 # TOOL AND TECHNOLOGIES USED:
 
 Frontend Framework: Angular
+
 Programming Language: TypeScript
+
 UI Structure: HTML5
+
 Styling: CSS3
+
 API Communication: Angular HttpClient
+
 Forms Handling: FormsModule and NgForm
+
 Package Manager: Node.js / npm
+
 Development Environment: VS Code
+
 Version Control: Git & GitHub
 
 # FEATURES:
 
 Create new orders through a form interface
+
 View orders displayed dynamically in a card layout
+
 Edit existing orders using a modal form
+
 Delete orders with confirmation prompt
+
 Two-way data binding using ngModel
+
 Dynamic rendering using *ngFor
+
 Conditional display using *ngIf
+
 Light and dark theme toggle
+
 REST API integration with backend
+
 Optimized rendering using trackBy
 
 # CHALLENGES FACED:
 
 Handling asynchronous API calls while updating the UI
+
 Ensuring form validation before submission
+
 Synchronizing UI updates after delete and update operations
+
 Fixing module import and service integration issues
+
 Debugging Angular compilation and dependency errors
 
 # IMPROVEMENTS IMPLEMENTED:
 
 Implemented real-time UI updates after CRUD operations
+
 Added modal-based form for better user interaction
+
 Optimized list rendering using trackBy
+
 Improved user experience with a dark/light theme toggle
+
 Structured code with separation of component and service logic
+
 Enhanced error handling for API calls
 
 
