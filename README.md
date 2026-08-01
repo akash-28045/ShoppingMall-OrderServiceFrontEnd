@@ -8,96 +8,96 @@ The frontend is built using Angular standalone components and follows a componen
 
 # TOOL AND TECHNOLOGIES USED:
 
-Frontend Framework: Angular
+- Frontend Framework: Angular
 
-Programming Language: TypeScript
+- Programming Language: TypeScript
 
-UI Structure: HTML5
+- UI Structure: HTML5
 
-Styling: CSS3
+- Styling: CSS3
 
-API Communication: Angular HttpClient
+- API Communication: Angular HttpClient
 
-Forms Handling: FormsModule and NgForm
+- Forms Handling: FormsModule and NgForm
 
-Package Manager: Node.js / npm
+- Package Manager: Node.js / npm
 
-Development Environment: VS Code
+- Development Environment: VS Code
 
-Version Control: Git & GitHub
+- Version Control: Git & GitHub
 
 # FEATURES:
 
-Create new orders through a form interface
+- Create new orders through a form interface
 
-View orders displayed dynamically in a card layout
+- View orders displayed dynamically in a card layout
 
-Edit existing orders using a modal form
+- Edit existing orders using a modal form
 
-Delete orders with confirmation prompt
+- Delete orders with confirmation prompt
 
-Two-way data binding using ngModel
+- Two-way data binding using ngModel
 
-Dynamic rendering using *ngFor
+- Dynamic rendering using *ngFor
 
-Conditional display using *ngIf
+- Conditional display using *ngIf
 
-Light and dark theme toggle
+- Light and dark theme toggle
 
-REST API integration with backend
+- REST API integration with backend
 
-Optimized rendering using trackBy
+- Optimized rendering using trackBy
 
 # CHALLENGES FACED:
 
-Handling asynchronous API calls while updating the UI
+- Handling asynchronous API calls while updating the UI
 
-Ensuring form validation before submission
+- Ensuring form validation before submission
 
-Synchronizing UI updates after delete and update operations
+- Synchronizing UI updates after delete and update operations
 
-Fixing module import and service integration issues
+- Fixing module import and service integration issues
 
-Debugging Angular compilation and dependency errors
+- Debugging Angular compilation and dependency errors
 
 # IMPROVEMENTS IMPLEMENTED:
 
-Implemented real-time UI updates after CRUD operations
+- Implemented real-time UI updates after CRUD operations
 
-Added modal-based form for better user interaction
+- Added modal-based form for better user interaction
 
-Optimized list rendering using trackBy
+- Optimized list rendering using trackBy
 
-Improved user experience with a dark/light theme toggle
+- Improved user experience with a dark/light theme toggle
 
-Structured code with separation of component and service logic
+- Structured code with separation of component and service logic
 
-Enhanced error handling for API calls
+- Enhanced error handling for API calls
 
 
-# ORDER
+# ORDER:
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.2.
 
 ## DEVELOPMENT SERVER:
 
-To start a local development server, run:
+- To start a local development server, run:
 
 ```bash
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
 # CODE SCAFFOLDINGS:
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
 
 ```bash
 ng generate component component-name
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+- For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
 
 ```bash
 ng generate --help
@@ -105,17 +105,17 @@ ng generate --help
 
 # BUILDING:
 
-To build the project run:
+- To build the project run:
 
 ```bash
 ng build
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+- This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
 # RUNNING UNIT TESTS:
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
+- To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
 
 ```bash
 ng test
@@ -123,13 +123,13 @@ ng test
 
 ## RUNNING END-END TESTS:
 
-For end-to-end (e2e) testing, run:
+- For end-to-end (e2e) testing, run:
 
 ```bash
 ng e2e
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+- Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
 # ADDITIONAL RESOURCES:
 
