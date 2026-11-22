@@ -1,3 +1,7 @@
+# PROJECT TITLE:
+
+# SHOPPING MALL MANAGEMENT SYSTEM – FRONTEND APPLICATION (ANGULAR)
+
 # PROJECT OVERVIEW:
 
 This project is the frontend interface of an Order Management System developed using Angular. The application provides a user-friendly platform for managing orders through a modern web interface. It allows users to perform essential operations such as creating, viewing, updating, and deleting orders, while communicating with a backend API built using Spring Boot. The system is designed to simplify order handling by providing an interactive UI, efficient data binding, and real-time updates without needing to refresh the page.
