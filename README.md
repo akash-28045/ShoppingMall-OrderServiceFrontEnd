@@ -10,6 +10,12 @@ This project is the frontend interface of an Order Management System developed u
 
 The frontend is built using Angular standalone components and follows a component-based architecture. The main OrderComponent manages the order data and interacts with a dedicated OrderService to communicate with backend APIs using HttpClient. The UI includes a modal-based order form for creating and updating orders, and a card-based layout to display order details. Angular directives like *ngFor and *ngIf are used to dynamically render order data and handle conditional display states. Two-way data binding with ngModel enables real-time synchronization between user input and the application model.
 
+# WHAT THIS APPLICATION DOES:
+- This application provides a user-friendly frontend interface for managing orders in a shopping mall.
+- It allows users to create, view, update, and delete orders through an interactive web interface.
+- It communicates with the Spring Boot backend through REST APIs to perform order-related operations.
+- It dynamically displays order information using Angular components and data binding.
+
 # TOOL AND TECHNOLOGIES USED:
 
 - Frontend Framework: Angular
